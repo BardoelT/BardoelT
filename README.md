@@ -1,8 +1,14 @@
 ### Hi there 👋
+I'm an embedded software developer, C/C++. I also crated an app for the [Homey](https://github.com/BardoelT/local.dsmr-logger) and configured a system to [log temperature](https://github.com/BardoelT/temperature-logger-web-app) on a Raspberry Pi.
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=BardoelT&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BardoelT&layout=compact)
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/11734451)
 
 <!--
 **BardoelT/BardoelT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![Profile views](https://gpvc.arturio.dev/BardoelT)  
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
