@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm an embedded software developer, C/C++. I also crated an app for the [Homey](https://github.com/BardoelT/local.dsmr-logger) and configured a system to [log temperature](https://github.com/BardoelT/temperature-logger-web-app) on a Raspberry Pi.
+I'm an embedded software developer, C/C++. I also created an app for the [Homey](https://github.com/BardoelT/local.dsmr-logger) and configured a system to [log temperature](https://github.com/BardoelT/temperature-logger-web-app) on a Raspberry Pi.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=BardoelT&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BardoelT&layout=compact)
